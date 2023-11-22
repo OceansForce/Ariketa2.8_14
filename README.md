@@ -1,7 +1,7 @@
 # Ariketa2.8_14
 
 | Izena | Definizioa | Adbidea |
-| ------|------------|-----------|
+| ------|------------|------------|
 | byte | zenbaki osoak (**1 byte**) | -23, 116|
 |int| zenbaki osoak (**4 byte**)|32, -1274|
 |long|Zenbaki osoak (**8 byte**)|45, -745464634|
